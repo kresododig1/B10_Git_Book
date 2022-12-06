@@ -1,0 +1,9 @@
+
+
+so far we learned fit flow for
+commit push
+
+and 
+
+remote local
+
